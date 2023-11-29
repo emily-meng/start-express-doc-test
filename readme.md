@@ -13,6 +13,7 @@
 </p>
 
 <description>
+测试更新流程
 
 基于 Node.js 平台，快速、开放、极简的 Web 开发框架（部署到Custom运行时）
 
