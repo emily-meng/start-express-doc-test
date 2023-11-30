@@ -11,7 +11,7 @@ app.get('*', (req, res) => {
     
     <head>
       <meta charset="UTF-8">
-      <title>快速部署一个 Express 应用，增加部分信息</title>
+      <title>快速部署一个 Express 应用，增加部分信息，测试持续集成能力</title>
       <link rel="stylesheet" href="https://serverless-devs-app-pkg.oss-cn-beijing.aliyuncs.com/web-framework-demo.css" />
     </head>
     
